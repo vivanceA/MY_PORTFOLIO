@@ -12,7 +12,7 @@ body{
     width: 45%;
     height: 45vh;
     background-image: url(images/background.jpg);
-    background-size:contain;
+    background-repeat: no-repeat;
     background-position: left;
     padding-top: 10px;
 }
